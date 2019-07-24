@@ -18,3 +18,5 @@ This way of setting the API key Is one of the secure ways to implement it.<br />
 echo "Setting up Environment Variables"<br />
 export AUTH='SOME AUTH KEY'<br />
 jest<br />
+
+6. ./setup.sh 
