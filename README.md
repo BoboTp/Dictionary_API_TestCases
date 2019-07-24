@@ -20,3 +20,6 @@ export AUTH='SOME AUTH KEY'<br />
 jest<br />
 
 6. ./setup.sh 
+
+In some unix/linux based systems, you need to manually give execute permission,you can give it by<br />
+chmod 777 setup.sh and then try running using ./setup.sh
