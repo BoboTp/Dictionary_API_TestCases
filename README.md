@@ -6,7 +6,7 @@
 There is multiple usage of the same code, every instance after performing a manipulation might over write the existing value so I did not what to complicate it in the short span of time and I repeated the same task.(like creation of dictionary)
 
 How to run:<br />
-1.	Extract the Zip file<br />
+1.	Download and Extract the Zip file from the Git<br />
 2.	"Npm install" in the same directory where the file is extracted<br />
 3.	"Sudo npm install -g jest"<br />
 4.	Precondition : Unless the Auth variable set as environment the code won’t run.<br />
